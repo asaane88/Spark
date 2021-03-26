@@ -1,6 +1,6 @@
 # This Repository contains work on Spark
 
-Case Study on Ad tech 
+Case Study on Ad tech Industry
 
 **Agenda**
 1. Real World Application
